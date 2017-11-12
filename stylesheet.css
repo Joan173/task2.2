@@ -1,0 +1,38 @@
+h1 {
+    color: #8B0000;
+    font-family: arial;
+}
+h2 {
+    color: #04008B;
+    font-family: arial;
+}
+
+h3 {
+    color: #00708B;
+    font-family: arial;
+}
+h4 {
+    color: #00308B;
+    font-family: arial;
+}
+p  {
+	background-color: #ffcc99;
+    font-family: arial;
+	font-size: 14px;
+	border-style: solid;
+    border-color: coral;
+}
+body{
+    background-color: #cccc00;
+    color: #0000Fb;
+    font-family: arial;
+	margin: 15px;
+	}
+logotipo {
+	color: #00008B;
+    font-family: arial;
+	font-size: 18px;
+	border-style: solid;
+    border-color: coral;
+	padding: 15px;  
+ }
